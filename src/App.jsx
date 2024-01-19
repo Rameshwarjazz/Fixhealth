@@ -7,7 +7,7 @@ import Testimonials from './component/Testimonials'
 function App() {
 
   return (
-    <div className=' bg-gradient-to-r from-black via-gray-300 to-white'>
+    <div className=' bg-black'>
       <HeroImage/>
       <ConsultationForm/>
       <Testimonials/>
